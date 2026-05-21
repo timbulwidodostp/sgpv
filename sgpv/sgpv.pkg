@@ -1,0 +1,17 @@
+D 'sgpv': Calculate the Second-Generation P-Value(s)(SGPV) and their associated diagnosis statistics after common estimation commands Use sgpv With STATA 19
+D
+F fdrisk.ado
+F fdrisk.dlg
+F fdrisk.sthlp
+F plotsgpv.ado
+F plotsgpv.dlg
+F plotsgpv.sthlp
+F sgpower.ado
+F sgpower.dlg
+F sgpower.sthlp
+F sgpv.ado
+F sgpv.dlg
+F sgpv.sthlp
+F sgpvalue.ado
+F sgpvalue.dlg
+F sgpvalue.sthlp
